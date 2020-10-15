@@ -1,5 +1,5 @@
-From python:3.7-alpine
-Maintainer sp007m16
+FROM python:3.7-alpine
+MAINTAINER sp007m16
 
 ENV PYTHONUNBUFFERED 1
 
